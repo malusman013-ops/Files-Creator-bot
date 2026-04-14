@@ -1,0 +1,8 @@
+.env
+*.session
+*.session-journal
+__pycache__/
+*.pyc
+bot.log
+*.txt
+bot_database.db
